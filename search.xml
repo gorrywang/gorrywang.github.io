@@ -3,8 +3,8 @@
   
     
     <entry>
-      <title><![CDATA[Git的简单使用之一]]></title>
-      <url>%2FGit%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%B8%80.html</url>
+      <title><![CDATA[Git的简单使用(1)]]></title>
+      <url>%2FGit%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8(1).html</url>
       <content type="text"><![CDATA[任务：学习Git的基本使用方法 目标：能够掌握init、status、log、commit、branch、checkout 时光逼着人以微笑付之所有伤 下载并安装Git： 进入Git官网下载，根据自己的系统版本进行下载。 我的是Windows x64系统，所以选择64位系统。 下载完成点击安装。 点击Next 勾选 Git Bash Here ,然后点击 Next 有三个选项，这里我们选择 第二个 ,然后 Next 有三个选项，这里我们选择 第一个 ,然后 Next 默认选项，Next，进行安装。 掌握init、status、log、commit 首先，我们新建一个文件夹，在文件夹里右击，选择 Git Bash Here ,就会弹出命令行输入框。 然后我们在这里输入 git status ,回车，观察会发现错误，错误的原因是当前文件夹并不是一个仓库，所以我们需要先 初始化仓库 git init , 然后就会发现文件夹内多了一个文件夹.git。 初始化完仓库后，我们就可以进行操作了。 在文件夹里创建一个文件 my.md , 然后在命令行里输入 git status ,会发现下面情况。 这是因为我们没有把my.md这个文件上传到暂存盘，所以我们可以使用 git add my.md 这个命令将my.md上传到暂存盘（注意：是暂存盘，并没有提交），然后调用 git status 命令查看 现在我们已经将文件添加到暂存盘了，然后我们可以提交进行保存了，调用命令git commit -m&#39;保存信息&#39; ,就可以保存了。 提交过多少次，我们可以通过 git log 进行查看 掌握branch、checkout branch 也就是分支，分支的概念很重要，尤其是在公司团队协作的时候，假设几个人都在做同一个项目，这个时候分支就可以派上用场了。举个例子，小张、小明俩人在做同一个项目，但是他们分工不同，所以小张建立了一个分支叫做a，小明建立了一个分支叫做b，当他们都完成各自的分工后，就可以将完成的分支代码合并到master上。 刚才我们的操作都是在master上，输入 git branch , 可以查看当前有多少分支 通过截图我们看到当前就一个master，所以我们可以建立一个分支a,输入命令 git branch a , 就可以创建出新的分支，这个分支是与master的数据一样的，然后查看分支 通过截图我们可以发现当前有两个，一个是master ， 一个是 a 。 我们切换分支可以输入 git checkout a , 就可以切换到a分支。 现在我们再从文件夹内创建一个文件 a.md ,然后add 并 commit 。 输入git checkout master ,切换回master分支,然后观察文件夹，发现只有my.md文件。原因是a.md文件在 a 分支上，这时候我们需要将 a 分支合并到 master 分支上，输入命令 git merge a 现在，我们查看文件夹，发现里面就出现了a.md文件。 已经将 a分支 合并到了 master ,所以我们可以删除 a 分支 ，输入 git branch -d a 就可以将 a 分支删除 ，如果分支删除失败，可以使用强制删除，输入 git branch -D a就可以强制删除 。 到此，一些基本内容我们就讲完了，大家熟悉练习 ，先将基础内容搞懂 , 下面学起来就简单了。]]></content>
     </entry>
 
