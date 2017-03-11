@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gorrywang.com/"/>
-  <updated>2017-03-11T06:58:52.256Z</updated>
+  <updated>2017-03-11T13:17:34.511Z</updated>
   <id>http://gorrywang.com/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git的简单使用1</title>
+    <link href="http://gorrywang.com/Git%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8.html"/>
+    <id>http://gorrywang.com/Git的简单使用.html</id>
+    <published>2017-03-11T11:31:16.000Z</published>
+    <updated>2017-03-11T13:17:34.511Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;任务：学习Git的基本使用方法&lt;/p&gt;
+&lt;p&gt;目标：能够掌握init、status、log、commit、branch、checkout&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://gorrywang.com/tags/Git/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

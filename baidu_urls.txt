@@ -1,1 +1,2 @@
+http://gorrywang.com/Git的简单使用.html
 http://gorrywang.com/hello-world.html
