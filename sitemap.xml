@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gorrywang.com/hello-world.html</loc>
+    <loc>http://gorrywang.com/tags/index.html</loc>
     
-    <lastmod>2017-03-11T06:58:52.256Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://gorrywang.com/about/index.html</loc>
-    
-    <lastmod>2017-03-11T06:13:30.397Z</lastmod>
+    <lastmod>2017-03-11T07:41:17.529Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://gorrywang.com/categories/index.html</loc>
     
-    <lastmod>2017-03-11T06:13:09.275Z</lastmod>
+    <lastmod>2017-03-11T07:41:03.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://gorrywang.com/tags/index.html</loc>
+    <loc>http://gorrywang.com/about/index.html</loc>
     
-    <lastmod>2017-03-11T06:12:33.051Z</lastmod>
+    <lastmod>2017-03-11T07:40:43.546Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gorrywang.com/hello-world.html</loc>
+    
+    <lastmod>2017-03-11T06:58:52.256Z</lastmod>
     
   </url>
   
