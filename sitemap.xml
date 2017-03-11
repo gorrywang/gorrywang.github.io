@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://gorrywang.com/about/index.html</loc>
+    
+    <lastmod>2017-03-11T06:13:30.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gorrywang.com/categories/index.html</loc>
+    
+    <lastmod>2017-03-11T06:13:09.275Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gorrywang.com/tags/index.html</loc>
+    
+    <lastmod>2017-03-11T06:12:33.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://gorrywang.com/hello-world.html</loc>
+    
+    <lastmod>2017-03-11T05:58:08.302Z</lastmod>
+    
+  </url>
+  
+</urlset>
