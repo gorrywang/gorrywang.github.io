@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://gorrywang.com/"/>
-  <updated>2017-03-11T13:40:12.627Z</updated>
+  <updated>2017-03-13T13:02:54.869Z</updated>
   <id>http://gorrywang.com/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git的简单使用(2)</title>
+    <link href="http://gorrywang.com/git02.html"/>
+    <id>http://gorrywang.com/git02.html</id>
+    <published>2017-03-13T12:02:40.000Z</published>
+    <updated>2017-03-13T13:02:54.869Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;任务：使用远程仓库&lt;/p&gt;
+&lt;p&gt;目标：能够掌握生成ssh密钥以及同步远程仓库&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://gorrywang.com/tags/Git/"/>
+    
+  </entry>
   
   <entry>
     <title>Git的简单使用(1)</title>
