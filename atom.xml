@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://gorrywang.com/"/>
+  <link href="http://gorrywang.me/"/>
   <updated>2017-03-13T13:06:16.568Z</updated>
-  <id>http://gorrywang.com/</id>
+  <id>http://gorrywang.me/</id>
   
   <author>
     <name>Gorry Wang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Git的简单使用(2)</title>
-    <link href="http://gorrywang.com/git02.html"/>
-    <id>http://gorrywang.com/git02.html</id>
+    <link href="http://gorrywang.me/git02.html"/>
+    <id>http://gorrywang.me/git02.html</id>
     <published>2017-03-13T12:02:40.000Z</published>
     <updated>2017-03-13T13:06:16.568Z</updated>
     
@@ -30,14 +30,14 @@
     </summary>
     
     
-      <category term="Git" scheme="http://gorrywang.com/tags/Git/"/>
+      <category term="Git" scheme="http://gorrywang.me/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Git的简单使用(1)</title>
-    <link href="http://gorrywang.com/git01.html"/>
-    <id>http://gorrywang.com/git01.html</id>
+    <link href="http://gorrywang.me/git01.html"/>
+    <id>http://gorrywang.me/git01.html</id>
     <published>2017-03-11T11:31:16.000Z</published>
     <updated>2017-03-11T13:40:12.627Z</updated>
     
@@ -49,14 +49,14 @@
     </summary>
     
     
-      <category term="Git" scheme="http://gorrywang.com/tags/Git/"/>
+      <category term="Git" scheme="http://gorrywang.me/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://gorrywang.com/hello-world.html"/>
-    <id>http://gorrywang.com/hello-world.html</id>
+    <link href="http://gorrywang.me/hello-world.html"/>
+    <id>http://gorrywang.me/hello-world.html</id>
     <published>2017-03-11T05:58:08.302Z</published>
     <updated>2017-03-11T06:58:52.256Z</updated>
     
