@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://abug.xyz/git02.html</loc>
+    <loc>http://abug.xyz/guestbook/index.html</loc>
     
-    <lastmod>2017-03-13T13:06:16.568Z</lastmod>
+    <lastmod>2017-03-15T01:18:40.783Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://abug.xyz/about/index.html</loc>
     
-    <lastmod>2017-03-11T14:40:30.136Z</lastmod>
+    <lastmod>2017-03-15T01:02:18.089Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://abug.xyz/git02.html</loc>
+    
+    <lastmod>2017-03-13T13:06:16.568Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>http://abug.xyz/tags/index.html</loc>
     
     <lastmod>2017-03-11T07:41:17.529Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://abug.xyz/categories/index.html</loc>
-    
-    <lastmod>2017-03-11T07:41:03.000Z</lastmod>
     
   </url>
   
