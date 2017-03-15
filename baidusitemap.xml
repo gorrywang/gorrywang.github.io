@@ -3,11 +3,9 @@
 
 
     
-    
-    
   <url>
     <loc>http://abug.xyz/git02.html</loc>
-    <lastmod>2017-03-13T13:06:16.568Z</lastmod>
+    <lastmod>2017-03-15T15:39:26.602Z</lastmod>
     <data>
         <display>
         <title>Git的简单使用(2)</title>
@@ -24,7 +22,7 @@
     
   <url>
     <loc>http://abug.xyz/git01.html</loc>
-    <lastmod>2017-03-11T13:40:12.627Z</lastmod>
+    <lastmod>2017-03-15T15:39:10.633Z</lastmod>
     <data>
         <display>
         <title>Git的简单使用(1)</title>
@@ -38,5 +36,7 @@
     </data>
     </url>
 
+    
+    
     
 </urlset>
