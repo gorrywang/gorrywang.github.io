@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://abug.xyz/"/>
+  <link href="http://www.abug.xyz/"/>
   <updated>2017-03-13T13:06:16.568Z</updated>
-  <id>http://abug.xyz/</id>
+  <id>http://www.abug.xyz/</id>
   
   <author>
     <name>Gorry Wang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Git的简单使用(2)</title>
-    <link href="http://abug.xyz/git02.html"/>
-    <id>http://abug.xyz/git02.html</id>
+    <link href="http://www.abug.xyz/git02.html"/>
+    <id>http://www.abug.xyz/git02.html</id>
     <published>2017-03-13T12:02:40.000Z</published>
     <updated>2017-03-13T13:06:16.568Z</updated>
     
@@ -30,14 +30,14 @@
     </summary>
     
     
-      <category term="Git" scheme="http://abug.xyz/tags/Git/"/>
+      <category term="Git" scheme="http://www.abug.xyz/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Git的简单使用(1)</title>
-    <link href="http://abug.xyz/git01.html"/>
-    <id>http://abug.xyz/git01.html</id>
+    <link href="http://www.abug.xyz/git01.html"/>
+    <id>http://www.abug.xyz/git01.html</id>
     <published>2017-03-11T11:31:16.000Z</published>
     <updated>2017-03-11T13:40:12.627Z</updated>
     
@@ -49,7 +49,7 @@
     </summary>
     
     
-      <category term="Git" scheme="http://abug.xyz/tags/Git/"/>
+      <category term="Git" scheme="http://www.abug.xyz/tags/Git/"/>
     
   </entry>
   
