@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://abug.xyz/"/>
-  <updated>2017-03-15T15:39:26.602Z</updated>
+  <updated>2017-03-16T15:14:27.569Z</updated>
   <id>http://abug.xyz/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github Pages 搭建个人博客</title>
+    <link href="http://abug.xyz/pages01.html"/>
+    <id>http://abug.xyz/pages01.html</id>
+    <published>2017-03-16T13:22:20.000Z</published>
+    <updated>2017-03-16T15:14:27.569Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;做任何事，只要你迈出了第一步，然后再一步步地走下去，你就会逐渐靠近你的目的地。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自己终于忍受不了又笨又慢服务器搭建个人博客了（学生党用不起高端服务器），经过几天的研究，自己通过Github搭建起了个人博客。&lt;/p&gt;
+&lt;p&gt;下面将自己搭建Github Pager的步骤慢慢叙来。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="搭建博客" scheme="http://abug.xyz/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>Git的简单使用(2)</title>
