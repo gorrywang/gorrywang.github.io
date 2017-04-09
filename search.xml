@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[android studio 2.3.1 优化]]></title>
+      <url>%2Fandroidstudio01.html</url>
+      <content type="text"><![CDATA[今天重装系统, 正好将android studio优化过程记录下来.电脑内存: 8g电脑硬盘: SSD编程中我们会遇到多少挫折？表放弃，沙漠尽头必是绿洲。 android studio已经更新到了2.3.1, 正好借助这次重装系统将自己的优化过程记录下来. 不会翻墙的程序猿不是好程序猿首先,我们应该将电脑fq, 大多数的android studio的安装错误问题就不会出现. 扩大android studio 的内存打开android studio的安装目录, 进入bin目录下: 64位系统: 记事本打开 studio64.exe.vmoptions 文件. 32位系统: 记事本打开 studio.exe.vmoptions 文件. 修改如下参数: -Xms1024m -Xmx2048m -XX:ReservedCodeCacheSize=800m gradle进程守护 打开电脑目录 C:\Users\username\.gradle\ 在目录中新建一个 txt 文件, 名称为 gradle.properties ,然后将 后缀 txt 删除掉. 使用记事本打开 gradle.properties 文件. 将如下内容复制到记事本并保存: org.gradle.daemon=true org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=800m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8 org.gradle.parallel=true org.gradle.configureondemand=true 设置android studio 打开 android studio 点击右上角 file → Settings → Build,Execution,Deloyment → Compiler. 勾选如下内容并保存: 切换到 Build,Execution,Deloyment → Gradle,勾选如下内容并保存: 这样,就设置完成了,在我的8g内存电脑上运行是比较流畅的.]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[Github Pages 绑定域名]]></title>
       <url>%2Fpages02.html</url>
       <content type="text"><![CDATA[使用 Github Pages 搭建个人博客是一个很好的选择，但是 github 上默认的域名就是 用户名.github.io ，感觉让别人记忆起来有些困难，所以我们可以将自己购买的域名绑定到Github上。 长大后才真正明白，这个世界，评判你的标准，只有结果。 购买域名首先我们需要去购买一个域名，我们可以去各大域名商去买，比如：阿里云、腾讯云、GoDaddy 等，我个人是在阿里云上购买的，个人建议买国内供应商的。 购买就不再赘述。 域名解析打开域名解析面板，添加两条A记录： 记录值分别为 192.30.252.154 和 192.30.252.153，如图： 添加一条CNAME记录：记录值为 用户名.github.io.，如图： 绑定域名如果使用的是 Hexo 来生成的静态页面的话，我们需要在 Hexo 的 source 文件夹下创建 CNAME 的txt文档 ，然后将.txt 扩展名删除掉 ； 然后使用记事本打开 CNAME ，里面输入 你的网址，去掉 www，进行保存，如图： 生成网页，推送到服务器做好以上内容，我们就可以在git上使用 hexo g 和 hexo d 推送到服务器。 推送上去后，在Github仓库中的根目录下存在 CNAME 文件。 输入域名查看博客好了，在浏览器输入域名进行查看当前网页吧~]]></content>

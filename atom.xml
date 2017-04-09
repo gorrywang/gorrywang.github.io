@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://abug.xyz/"/>
-  <updated>2017-03-18T13:56:46.335Z</updated>
+  <updated>2017-04-09T16:03:34.037Z</updated>
   <id>http://abug.xyz/</id>
   
   <author>
@@ -14,6 +14,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>android studio 2.3.1 优化</title>
+    <link href="http://abug.xyz/androidstudio01.html"/>
+    <id>http://abug.xyz/androidstudio01.html</id>
+    <published>2017-04-09T15:20:51.000Z</published>
+    <updated>2017-04-09T16:03:34.037Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天重装系统, 正好将android studio优化过程记录下来.&lt;br&gt;电脑内存: 8g&lt;br&gt;电脑硬盘: SSD&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="android studio" scheme="http://abug.xyz/tags/android-studio/"/>
+    
+  </entry>
   
   <entry>
     <title>Github Pages 绑定域名</title>
